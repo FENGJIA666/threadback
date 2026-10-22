@@ -1,0 +1,40 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width,initial-scale=1">
+  <meta name="theme-color" content="#245b47">
+  <meta name="description" content="Leave a clear handoff. Return to your work with the next step ready.">
+  <title>Threadback — Pick up where you left off</title>
+  <link rel="icon" type="image/svg+xml" href="./mark.svg">
+  <link rel="stylesheet" href="./styles.css">
+  <script type="module" src="./src/app.js"></script>
+</head>
+<body>
+  <a class="skip-link" href="#main">Skip to workspace</a>
+  <div class="shell">
+    <aside class="rail" aria-label="Your handoffs">
+      <a class="brand" href="./" aria-label="Threadback home"><img class="brand-mark" src="./mark.svg" alt="" width="38" height="38">Threadback</a>
+      <p class="rail-caption">A place to leave your place.</p>
+      <button class="button button-primary" id="new-handoff">＋ Leave a handoff</button>
+      <div class="nav-tabs" role="group" aria-label="Filter handoffs">
+        <button class="nav-tab active" id="filter-parked" aria-pressed="true">Waiting <span id="count-parked">0</span></button>
+        <button class="nav-tab" id="filter-archived" aria-pressed="false">Archived <span id="count-archived">0</span></button>
+      </div>
+      <nav class="thread-list" id="thread-list" aria-label="Saved handoffs"></nav>
+      <div class="rail-bottom">
+        <div class="local-note"><span aria-hidden="true">◉</span> Saved in this browser</div>
+        <button class="button button-quiet" id="backup">Back up & restore <span aria-hidden="true">↗</span></button>
+        <button class="button button-quiet" id="load-example">Explore an example <span aria-hidden="true">↗</span></button>
+      </div>
+    </aside>
+    <main class="main" id="main" tabindex="-1">
+      <header class="topbar"><span class="eyebrow">YOUR PERSONAL WORKBENCH</span><span class="status-pill"><span aria-hidden="true">●</span> One clear next step</span></header>
+      <div id="workspace" class="workspace"></div>
+    </main>
+  </div>
+  <div id="toast" class="toast" role="status" aria-live="polite" hidden></div>
+  <dialog id="dialog" class="modal" aria-labelledby="dialog-title"></dialog>
+  <input id="import-file" type="file" accept="application/json,.json" hidden>
+</body>
+</html>

@@ -1,0 +1,47 @@
+{
+  "verifiedDate": "2026-10-22",
+  "timezone": "Asia/Singapore",
+  "artifacts": [
+    {
+      "path": "app/index.html",
+      "bytes": 2323,
+      "sha256": "030cc08dc61bbaee480501db3f7160a684fe69fb1875f1adc75ca7e42c3f4c13"
+    },
+    {
+      "path": "app/styles.css",
+      "bytes": 20782,
+      "sha256": "ca3b6fcbc078ca3ca0c43e0f5b51618bb1ee962f733d99a836cb94c9412d45d2"
+    },
+    {
+      "path": "app/src/app.js",
+      "bytes": 22429,
+      "sha256": "5a72dbefc82d540e7e042e7c4d7a272ebbc52403d72891f099e4f368642d3235"
+    },
+    {
+      "path": "app/src/core.js",
+      "bytes": 6173,
+      "sha256": "402bc26230fb312919cc318ef042ab963766c2413cfb0796341101722ab06199"
+    },
+    {
+      "path": "app/example.html",
+      "bytes": 1206,
+      "sha256": "feac24ba9bd84ed10d48cee3f8b4c423128bf3583b3685decf505d9bbacfcb9c"
+    },
+    {
+      "path": "tests/core.test.mjs",
+      "bytes": 6183,
+      "sha256": "40a8b7f4d66f126f9b8e6ac3348658af62416e92b0894519e8d2584ce317455c"
+    },
+    {
+      "path": "tests/browser.spec.mjs",
+      "bytes": 10467,
+      "sha256": "4f33f32ed95ed8f4b7b24e48268dd88d169297a3fed0cc5d0a4e166c4d32d192"
+    },
+    {
+      "path": "evidence/Threadback-demo.mp4",
+      "bytes": 1538691,
+      "sha256": "35d54c74a02471c3872d8c76bbcd84f64dcf60888066eb3d414009ca9a641bf9"
+    }
+  ],
+  "sourceIdentity": "Source files are identified by the SHA-256 values below. This publication copy uses independent clean Git history."
+}
