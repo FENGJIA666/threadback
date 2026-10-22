@@ -14,6 +14,10 @@ Threadback keeps your goal, confirmed context, open questions, and next move tog
 
 **Your work stays with you.** Start without an account or API key. Handoffs live in the current browser, with downloadable backups and validated restoration to carry them to another one.
 
+## Watch the demonstration
+
+[Watch or download the 77-second demonstration](evidence/Threadback-final-demo.mp4). This edited recording shows the running application, including the example inventory, the recorded result, and the retained context.
+
 ## Try the complete loop
 
 1. Choose **Explore an example** to open the repair-café project.

@@ -12,4 +12,4 @@ Verified 22 October 2026 against the [official rules](https://learn-ai-basics.de
 
 The [official shipping curriculum](https://github.com/challengepost/learn-ai-basics/blob/main/skills/6-ship/SKILL.md) requires participant-written project names, submission prose and exit survey answers. Technical implementation and documentation assistance are supported. Do not claim compliance with participant authorship for generated copy.
 
-Current artifacts: a working local application, draft planning files, tested source, and a 70.48-second local demo recording. A public repository and public video are being prepared. Publication and formal submission are not yet verified by this record. See `evidence/ACCEPTANCE.md` for verification.
+Current artifacts: a working application, draft planning files, tested source, and a 77.48-second edited demonstration. The [public repository](https://github.com/FENGJIA666/threadback) is available. The competition-hosted submission and YouTube video URL remain pending. See `evidence/ACCEPTANCE.md` for verification.

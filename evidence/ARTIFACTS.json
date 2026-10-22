@@ -38,10 +38,14 @@
       "sha256": "4f33f32ed95ed8f4b7b24e48268dd88d169297a3fed0cc5d0a4e166c4d32d192"
     },
     {
-      "path": "evidence/Threadback-demo.mp4",
-      "bytes": 1538691,
-      "sha256": "35d54c74a02471c3872d8c76bbcd84f64dcf60888066eb3d414009ca9a641bf9"
+      "path": "evidence/Threadback-final-demo.mp4",
+      "bytes": 1754500,
+      "sha256": "a78afdefe1829895750df0ff2ff9cb43c27ebcce1028bad150e1406a3b847fa4",
+      "durationSeconds": 77.48,
+      "format": "H.264 1440x1000",
+      "recording": "Edited recordings of the running application using fictional example data."
     }
   ],
-  "sourceIdentity": "Source files are identified by the SHA-256 values below. This publication copy uses independent clean Git history."
+  "sourceIdentity": "File hashes below identify the verified implementation. Public history is exported without private local commit metadata.",
+  "publicRepository": "https://github.com/FENGJIA666/threadback"
 }

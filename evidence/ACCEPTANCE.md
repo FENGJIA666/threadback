@@ -33,6 +33,10 @@ Verification covers local Chrome and responsive browser viewports. Participant h
 
 ## Demo artifact
 
-`Threadback-demo.mp4` records the actual local interface: creating a custom handoff, saving, reloading, resuming, using focus, recording progress, expanding prior context, and exporting a backup. The scenario is fictional practice data. The recording is silent and the interface carries the walkthrough.
+`Threadback-final-demo.mp4` is an edited demonstration assembled from recordings of the actual local interface: creating a custom handoff, saving, reloading, resuming, using focus, checking the fictional inventory reference, recording progress, expanding prior context, and exporting a backup. The scenario is fictional practice data. The recording is silent and the interface carries the walkthrough.
 
-Video verified with ffprobe: H.264, 1440×1000, 70.48 seconds. Full ffmpeg decode completed without errors. Six sampled frames were visually inspected.
+Video verified with ffprobe: H.264, 1440×1000, 77.48 seconds. Full ffmpeg decode completed without errors. Six sampled frames were visually inspected.
+
+## Public source
+
+The [public repository](https://github.com/FENGJIA666/threadback) was verified readable without authentication on 22 October 2026. It includes source, planning documents, run instructions, an MIT license, and the downloadable demonstration. YouTube hosting and formal competition submission are not confirmed by this record.
