@@ -39,4 +39,4 @@ Video verified with ffprobe: H.264, 1440×1000, 77.48 seconds. Full ffmpeg decod
 
 ## Public source
 
-The [public repository](https://github.com/FENGJIA666/threadback) was verified readable without authentication on 22 October 2026. It includes source, planning documents, run instructions, an MIT license, and the downloadable demonstration. YouTube hosting and formal competition submission are not confirmed by this record.
+The [public repository](https://github.com/FENGJIA666/threadback) was verified readable without authentication on 22 October 2026. It includes source, planning documents, run instructions, an MIT license, and the downloadable demonstration. The [YouTube demonstration](https://youtu.be/tEfidafjJiY) was published publicly on 22 October 2026; its title, publication confirmation, and watch-page playback were checked. Formal competition submission remains pending.

@@ -16,7 +16,7 @@ Threadback keeps your goal, confirmed context, open questions, and next move tog
 
 ## Watch the demonstration
 
-[Watch or download the 77-second demonstration](evidence/Threadback-final-demo.mp4). This edited recording shows the running application, including the example inventory, the recorded result, and the retained context.
+[Watch the 77-second demonstration on YouTube](https://youtu.be/tEfidafjJiY). A [downloadable copy](evidence/Threadback-final-demo.mp4) is included. This edited recording shows the running application, including the example inventory, the recorded result, and the retained context.
 
 ## Try the complete loop
 
